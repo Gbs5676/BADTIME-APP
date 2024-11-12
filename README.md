@@ -47,3 +47,6 @@ This project is for free use, but please respect the copyright of the original w
 ---
 
 Enjoy the experience, and good luck facing Sans!
+
+[screen captures here](https://uploadnow.io/f/YZqXpPz)
+
