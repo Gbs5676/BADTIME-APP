@@ -10,7 +10,7 @@ This repository contains the `base.apk` file for installing the game on Android 
 
 ## 📥 Installation
 
-1. **Download the APK:** Go to the file `BASE2.APK` in the repository and download `base.apk`.
+1. **Download the APK:** Go to the file `BASE.APK` in the repository and download `base.apk`.
 2. **Allow external installations:** On your Android device, go to **Settings > Security** and enable **Unknown sources** to install apps outside of the Play Store.
 3. **Install the APK:** Open the downloaded file (`base.apk`) and follow the instructions to install the game.
 
